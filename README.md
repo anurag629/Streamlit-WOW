@@ -1,6 +1,18 @@
 # Streamlit-WOW
 ML and Data Science Projects deployed using streamlit.
 
+## Table of Contents
+
+## Projects using Streamlit
+
+Table which contains project name, link to code, link to deployed app and description of the project.
+
+| **Project Name** | **Code** | **Deployed App** | **Description** |
+| ------------ | ---- | ------------ | ----------- |
+| Iris Flower Classification | [Code](https://github.com/anurag629/Streamlit-WOW/blob/master/Projects/Iris%20Flower%20Classification/iris_classification.py) | [App](https://share.streamlit.io/anurag629/streamlit-wow/master/Projects/Iris%20Flower%20Classification/iris_classification.py) | This project is a simple classification problem which classifies the iris flower into three categories. |
+
+
+
 ## Learning Resources
 
 [Basic Text Elements(Python File)](https://github.com/anurag629/Streamlit-WOW/blob/master/Learning/basic_text_elements.py)
