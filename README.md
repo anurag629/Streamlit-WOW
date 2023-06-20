@@ -1,5 +1,4 @@
 # Streamlit-WOW
-ML and Data Science Projects deployed using streamlit.
 
 <details>
 <summary>Projects using Streamlit</summary>
